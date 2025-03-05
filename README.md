@@ -1,11 +1,5 @@
 # Machine Learning
-
-## Ementa
-
 - O que é Machine Learning?
-- Exemplos
-    - Frutas
-    - Star Wars
 - Tipos de aprendizado
 - Métodos de Regressão
     - Regressão Linear Simples e Múltipla
