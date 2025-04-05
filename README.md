@@ -26,11 +26,11 @@ Este projeto apresenta um modelo de classificação aplicado a um conjunto de da
 
 
 
-📌 Modelo de Regressão: Análise de Notas de Estudantes
+- Modelo de Regressão: Análise de Notas de Estudantes
 Este estudo utiliza um modelo de regressão para analisar como diferentes fatores influenciam as notas dos alunos. O objetivo é prever o desempenho acadêmico com base em variáveis preditivas.
 
 
-📌 Métrica KS (Kolmogorov-Smirnov) para Avaliação de Modelos
+- Métrica KS (Kolmogorov-Smirnov) para Avaliação de Modelos
 Neste projeto, exploramos o cálculo da métrica KS (Kolmogorov-Smirnov), uma estatística amplamente utilizada para avaliar a qualidade de modelos preditivos, especialmente em crédito e risco.
 
 
